@@ -1,0 +1,16 @@
+.lightpink {
+    background-color: rgb(255, 182, 198);
+    font-family: Verdana, "DejaVu Sans",sans-serif;
+}
+#num2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+.unique {
+    font-size: 24px;
+}
+#num4 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
